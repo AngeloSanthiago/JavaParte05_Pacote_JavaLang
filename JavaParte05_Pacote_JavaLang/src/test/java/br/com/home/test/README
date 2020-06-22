@@ -1,0 +1,6 @@
+Cap01-Video01
+ 1- Entre todos os sources folders indicados no projeto, um mesmo nome de pacote não
+ pode ter o mesmo nome de classe declarado.
+  
+ 2- O Full Qualified Name (FQN) altera o nome da classe de forma que se a clausula
+ "import" não for declarada o FQN deve ser declarado no nome da classe.
